@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\joao.oliveira\Desktop\BoletoPGE</_PublishTargetUrl>
+    <History>True|2022-03-10T18:58:26.6003613Z;True|2022-03-10T15:48:11.5570186-03:00;True|2022-03-10T10:54:14.2090474-03:00;</History>
+  </PropertyGroup>
+</Project>
